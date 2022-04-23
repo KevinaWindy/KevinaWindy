@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **KevinaWindy/KevinaWindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 📫 
 :white_circle: Kindly visit my linkedin on [linkedin](https://www.linkedin.com/in/kevina-windy-arlianni-6581271b4/).
 :white_circle: kevina.arlianni@gmail.com.
--->
